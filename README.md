@@ -1,6 +1,6 @@
 # findair-junction2017
 One click journeys for adventure hungry, playful people who want to experience their perfect trip.
-Тамаш, [26.11.17 08:27]
+
 ## Inspiration
 
 We are five hackers and engineers from three different countries, who are keen on building the most practical solution with AI, robotics and machine learning. What we know for sure after years as entrepreneurs and competitions, the best ideas come from people’s everyday problems. Everybody loves to explore the world, but today it is too much of a hassle to find and organize the perfect trip. We wanted to fix that, so we did it!
@@ -42,5 +42,5 @@ FindAir need some partners to agree on joining us.
 
 ## Why wait - try it first
 
-Go straight to website!
+Go straight to [website](http://findair.herokuapp.com)!
 And remember. Travel is the only thing you buy that makes you richer!
